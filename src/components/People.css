@@ -17,7 +17,7 @@
 {
     box-shadow: 0 0 20px 2px #04d9ff;
     margin: 20px;
-    /* justify-items: center; */
+    justify-items: center;
 }
 .gender
 {
